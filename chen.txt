@@ -1,0 +1,10 @@
+1 STDN
+2 DSOD
+3 DeNet
+4 FPN
+5 DeepID-Net
+6 CPF
+7 OHEM
+8 G-CNN
+9 AttentionNet
+10 OverFeat
